@@ -1,0 +1,15 @@
+C:\Users\Ariel\source\repos\Pratica_Cola\Pratica_Cola\bin\Debug\net6.0\Pratica_Cola.exe
+C:\Users\Ariel\source\repos\Pratica_Cola\Pratica_Cola\bin\Debug\net6.0\Pratica_Cola.deps.json
+C:\Users\Ariel\source\repos\Pratica_Cola\Pratica_Cola\bin\Debug\net6.0\Pratica_Cola.runtimeconfig.json
+C:\Users\Ariel\source\repos\Pratica_Cola\Pratica_Cola\bin\Debug\net6.0\Pratica_Cola.dll
+C:\Users\Ariel\source\repos\Pratica_Cola\Pratica_Cola\bin\Debug\net6.0\ref\Pratica_Cola.dll
+C:\Users\Ariel\source\repos\Pratica_Cola\Pratica_Cola\bin\Debug\net6.0\Pratica_Cola.pdb
+C:\Users\Ariel\source\repos\Pratica_Cola\Pratica_Cola\obj\Debug\net6.0\Pratica_Cola.csproj.AssemblyReference.cache
+C:\Users\Ariel\source\repos\Pratica_Cola\Pratica_Cola\obj\Debug\net6.0\Pratica_Cola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel\source\repos\Pratica_Cola\Pratica_Cola\obj\Debug\net6.0\Pratica_Cola.AssemblyInfoInputs.cache
+C:\Users\Ariel\source\repos\Pratica_Cola\Pratica_Cola\obj\Debug\net6.0\Pratica_Cola.AssemblyInfo.cs
+C:\Users\Ariel\source\repos\Pratica_Cola\Pratica_Cola\obj\Debug\net6.0\Pratica_Cola.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\source\repos\Pratica_Cola\Pratica_Cola\obj\Debug\net6.0\Pratica_Cola.dll
+C:\Users\Ariel\source\repos\Pratica_Cola\Pratica_Cola\obj\Debug\net6.0\ref\Pratica_Cola.dll
+C:\Users\Ariel\source\repos\Pratica_Cola\Pratica_Cola\obj\Debug\net6.0\Pratica_Cola.pdb
+C:\Users\Ariel\source\repos\Pratica_Cola\Pratica_Cola\obj\Debug\net6.0\Pratica_Cola.genruntimeconfig.cache

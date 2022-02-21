@@ -1,0 +1,15 @@
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\obj\Debug\net6.0\Practica_Codigo.csproj.AssemblyReference.cache
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\obj\Debug\net6.0\Practica_Codigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\obj\Debug\net6.0\Practica_Codigo.AssemblyInfoInputs.cache
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\obj\Debug\net6.0\Practica_Codigo.AssemblyInfo.cs
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\obj\Debug\net6.0\Practica_Codigo.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\bin\Debug\net6.0\Practica_Codigo.exe
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\bin\Debug\net6.0\Practica_Codigo.deps.json
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\bin\Debug\net6.0\Practica_Codigo.runtimeconfig.json
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\bin\Debug\net6.0\Practica_Codigo.dll
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\bin\Debug\net6.0\ref\Practica_Codigo.dll
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\bin\Debug\net6.0\Practica_Codigo.pdb
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\obj\Debug\net6.0\Practica_Codigo.dll
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\obj\Debug\net6.0\ref\Practica_Codigo.dll
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\obj\Debug\net6.0\Practica_Codigo.pdb
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\obj\Debug\net6.0\Practica_Codigo.genruntimeconfig.cache

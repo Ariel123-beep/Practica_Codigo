@@ -1,0 +1,15 @@
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\obj\Debug\net6.0\Practica_Pila.csproj.AssemblyReference.cache
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\obj\Debug\net6.0\Practica_Pila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\obj\Debug\net6.0\Practica_Pila.AssemblyInfoInputs.cache
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\obj\Debug\net6.0\Practica_Pila.AssemblyInfo.cs
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\obj\Debug\net6.0\Practica_Pila.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\bin\Debug\net6.0\Practica_Pila.exe
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\bin\Debug\net6.0\Practica_Pila.deps.json
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\bin\Debug\net6.0\Practica_Pila.runtimeconfig.json
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\bin\Debug\net6.0\Practica_Pila.dll
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\bin\Debug\net6.0\ref\Practica_Pila.dll
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\bin\Debug\net6.0\Practica_Pila.pdb
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\obj\Debug\net6.0\Practica_Pila.dll
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\obj\Debug\net6.0\ref\Practica_Pila.dll
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\obj\Debug\net6.0\Practica_Pila.pdb
+C:\Users\Ariel\source\repos\Practica_Codigo\Practica_Codigo\obj\Debug\net6.0\Practica_Pila.genruntimeconfig.cache
